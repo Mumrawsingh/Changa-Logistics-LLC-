@@ -1,0 +1,22 @@
+body {
+background-color: black;
+}
+
+.main-container{
+
+width: auto;
+margin: auto;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+footer {
+
+    display: block;
+    color: aliceblue;
+    top: 1%;
+    
+}
+
